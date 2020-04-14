@@ -11,7 +11,7 @@
 
 const uint16_t pulseDelay = 5;
 const uint16_t min_freq = 10;
-const uint32_t system_clock_frequency = 72000000;
+const uint32_t system_clock_frequency = 48000000;
 
 String inString = "";    // string to hold input
 
